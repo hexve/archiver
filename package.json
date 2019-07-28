@@ -1,0 +1,22 @@
+{
+  "name": "archiver",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jiangplus",
+  "license": "MIT",
+  "dependencies": {
+    "@hyperswarm/discovery": "^1.3.0",
+    "@hyperswarm/network": "^1.0.2",
+    "hyperswarm": "^2.0.4",
+    "hyperdrive": "^9.15.0",
+    "hypercore-archiver": "^4.6.0",
+    "mirror-folder": "^3.0.0",
+    "dat": "^13.13.1",
+    "debug": "^4.1.1"
+  }
+}
